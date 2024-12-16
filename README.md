@@ -63,4 +63,4 @@
 - <img align="left" alt="twitter" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />[Twitter](https://x.com/ZergatT) 
 
 ### 📈 Stats  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TarekZERGAT&" alt="fahadkhan1740" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TarekZERGAT&" alt="TarekZERGAT" /></p>
